@@ -1,5 +1,5 @@
 # ParkingLot
-an amateur ParkingLot system 
+an amateur ParkingLot system written in Python
 
 
 
